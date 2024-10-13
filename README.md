@@ -39,7 +39,8 @@ Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas".
 
 * Admin Memilih Tidak
   ![Screenshot (94)](https://github.com/user-attachments/assets/5d51401d-c15d-46c6-bc73-d625476386eb)
-  Sedangkan, jika admin memilih "tidak" makan tampilan akan kembali ke Role Perusahaan.
+  
+  Sedangkan, jika admin memilih "tidak" maka tampilan akan kembali ke Role Perusahaan.
 
 2. Lihat Tugas
    ![Screenshot (93)](https://github.com/user-attachments/assets/8ff0d6bf-9cb2-4fdb-af0e-06b5f29b2a88)
