@@ -68,5 +68,9 @@ Input angka 2 untuk melihat tugas yang telah diperbarui.
 
    Pada fitur ini admin diarahkan kembali ke menu login.
 
+# Role Karyawan
+![Screenshot (98)](https://github.com/user-attachments/assets/58a63830-4cba-4896-8272-3d04459e81f4)
 
+Pada saat user menginputkan angka 2 otomatis user akan masuk ke Role Karyawan yang dimana akan langsung diminta meninputkan nama.
 
+![Screenshot (98)](https://github.com/user-attachments/assets/127b9a38-a7bb-467f-a1b3-c1236bf9dfdf)
