@@ -74,3 +74,5 @@ Input angka 2 untuk melihat tugas yang telah diperbarui.
 Pada saat user menginputkan angka 2 otomatis user akan masuk ke Role Karyawan yang dimana akan langsung diminta meninputkan nama.
 
 ![Screenshot (98)](https://github.com/user-attachments/assets/127b9a38-a7bb-467f-a1b3-c1236bf9dfdf)
+
+
