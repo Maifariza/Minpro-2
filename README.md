@@ -20,12 +20,13 @@ Sedangkan untuk role Karyawan hanya dapat menyelesaikan tugas dari Perusahaan.
 # Role Perusahaan 
 ![Screenshot (80)](https://github.com/user-attachments/assets/85ba982b-ab34-4cfb-a8ad-e8f319f32a8c)
 
-Jika user menginputkan angka 2 otomatis menampilkan 5 role perusahaan dan user diminta untuk menginputkan sesuai dengan angka role yang disediakan.
+Jika user menginputkan angka 1 otomatis menampilkan 5 role perusahaan dan user diminta untuk menginputkan sesuai dengan angka role yang disediakan.
 
 
 # Penjelasan Role Perusahaan
 1. Tambah Tugas
 ![Screenshot (81)](https://github.com/user-attachments/assets/94ade6ff-8686-4e32-9191-4bcf2017bed3)
+
 Input angka 1 untuk masuk ke role tambah tugas.
 
 ![Screenshot (81)](https://github.com/user-attachments/assets/764dd48c-5d82-404c-8831-3292c1f2d29d)
