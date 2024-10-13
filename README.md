@@ -29,6 +29,7 @@ Jika user menginputkan angka 2 otomatis menampilkan 5 role perusahaan dan user d
 Input angka 1 untuk masuk ke role tambah tugas.
 
 ![Screenshot (81)](https://github.com/user-attachments/assets/764dd48c-5d82-404c-8831-3292c1f2d29d)
+
 Disini admin akan diminta memasukkan Nomor Tugas, Daftar Tugas, dan Deadline yang ingin ditambahkan. Dan admin akan ditanya apakah ingin Tambah Tugas kembali dengan pengulangan (ya/tidak)
 
 * Admin memilih ya
@@ -44,7 +45,24 @@ Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas"
    Pada fitur ini user dapat melihat daftar tugas apa saja yang tersedia.
 
 3. Perbarui Tugas
-   ![Screenshot (81)](https://github.com/user-attachments/assets/18c659e5-4071-482b-a219-351576ccddb3)
+  ![Screenshot (83)](https://github.com/user-attachments/assets/ca2a3486-213a-4f43-afed-0fae8d91616a)
+Pada fitur ini admin bisa memperbarui tugas dengan memilih nomor semula dan memasukkan tugas serta deadline yang baru.
+
+![Screenshot (84)](https://github.com/user-attachments/assets/6303ded8-a9f1-4e5d-bde0-f6ae7a08756d)
+Input angka 2 untuk melihat tugas yang telah diperbarui.
+
+4. Hapus Tugas
+   ![Screenshot (85)](https://github.com/user-attachments/assets/08a3c983-c2c1-44f4-b004-1a8b4a7dc36d)
+   Pada fitur ini admin menginputkan Nomor Tugas yang ingin dihapus.
+   
+* Sebelum di hapus
+    ![Screenshot (85)](https://github.com/user-attachments/assets/49935bf6-1b53-4383-aab9-168bd4b26694)
+
+  * Setelah di hapus
+![Screenshot (86)](https://github.com/user-attachments/assets/46a8ed5d-2124-46ca-8c0c-8a19004a5bd1)
+
+5. Kembali Ke Menu Awal
+   Pada fitur ini admin diarahkan kembali ke menu login.
 
 
 
