@@ -64,6 +64,8 @@ Input angka 2 untuk melihat tugas yang telah diperbarui.
 ![Screenshot (86)](https://github.com/user-attachments/assets/46a8ed5d-2124-46ca-8c0c-8a19004a5bd1)
 
 5. Kembali Ke Menu Awal
+   ![Screenshot (96)](https://github.com/user-attachments/assets/a5ad2f71-5be3-4d64-9874-939d40181714)
+
    Pada fitur ini admin diarahkan kembali ke menu login.
 
 
