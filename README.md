@@ -31,11 +31,11 @@ Input angka 1 untuk masuk ke role tambah tugas.
 
 ![Screenshot (81)](https://github.com/user-attachments/assets/764dd48c-5d82-404c-8831-3292c1f2d29d)
 
-Disini admin akan diminta memasukkan Nomor Tugas, Daftar Tugas, dan Deadline yang ingin ditambahkan. Dan admin akan ditanya apakah ingin Tambah Tugas kembali dengan pengulangan (ya/tidak)
+Disini admin akan diminta memasukkan Nomor Tugas, Daftar Tugas, dan Deadline yang ingin ditambahkan. Dan admin akan ditanya apakah ingin Tambah Tugas kembali dengan pengulangan (ya/tidak).
 
 * Admin memilih ya
 ![Screenshot (95)](https://github.com/user-attachments/assets/7b740f05-3767-47ae-ab0c-0cf65912d753)
-Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas"
+Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas".
 
 * Admin Memilih Tidak
   ![Screenshot (94)](https://github.com/user-attachments/assets/5d51401d-c15d-46c6-bc73-d625476386eb)
