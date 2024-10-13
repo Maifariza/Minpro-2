@@ -3,8 +3,7 @@ Maifariza Aulia Dyas | 2409116032 | Sistem Informasi A
 Tema : Program To-Do-List Perusahaan 
 
 # Flowchart
-![Maifariza Aulia Dyas Minpro2 drawio (1)](https://github.com/user-attachments/assets/2e5e284d-6530-4c61-81c6-1871159f827f)
-
+![Maifariza Aulia Dyas Minpro2 drawio (1)](https://github.com/user-attachments/assets/1ca403cc-00a5-4c88-8811-70d244f13617)
 
 # Login
 ![Screenshot (90)](https://github.com/user-attachments/assets/5f66a81a-50df-427a-a2b4-695a58aa028a)
