@@ -75,11 +75,11 @@ Input angka 2 untuk melihat tugas yang telah diperbarui.
 # Role Karyawan
 ![Screenshot (98)](https://github.com/user-attachments/assets/127b9a38-a7bb-467f-a1b3-c1236bf9dfdf)
 
-Pada saat user menginputkan angka 2 otomatis user akan masuk ke Role Karyawan yang dimana akan langsung diminta meningputkan nama dan masukkan tugas yang dipilih.
+Pada saat user menginputkan angka 2 maka user akan masuk ke Role Karyawan yang akan langsung menampilkan output dari daftar tugas perusahaan dengan menggunakan pretty table yang telah disediakan pada baris pemograman maupun pada role Tambah,Hapus,Lihat, Perbarui Tugas pada mode Perusahaan. Kemudian disini pembeli akan diminta untuk memasukan No. Tugas yang diinginkan.
 
 ![Screenshot (100)](https://github.com/user-attachments/assets/ac14a060-6136-42e6-9871-0d6a2984b5f2)
 
-Jika user mengirim tugas akan ditanya kembali apakah ingin mengirim hal lain (ya/tidak)
+Jika user telah mengirim tugas akan ditanya kembali apakah ingin mengirim hal lain (ya/tidak)
 
 * User memilih ya
   ![Screenshot (101)](https://github.com/user-attachments/assets/02ed49a5-8db6-414a-b708-5c30269be02a)
