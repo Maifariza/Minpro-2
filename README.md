@@ -37,7 +37,7 @@ Disini admin akan diminta memasukkan Nomor Tugas, Daftar Tugas, dan Deadline yan
 ![Screenshot (95)](https://github.com/user-attachments/assets/7b740f05-3767-47ae-ab0c-0cf65912d753)
 Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas".
 
-* Admin Memilih Tidak
+* Admin Memilih tidak
   ![Screenshot (94)](https://github.com/user-attachments/assets/5d51401d-c15d-46c6-bc73-d625476386eb)
   
   Sedangkan, jika admin memilih "tidak" maka tampilan akan kembali ke Role Perusahaan.
@@ -77,9 +77,12 @@ Pada saat user menginputkan angka 2 otomatis user akan masuk ke Role Karyawan ya
 
 Jika user mengirim tugas akan ditanya kembali apakah ingin mengirim hal lain (ya/tidak)
 
-* User memilih tidak
-![Screenshot (99)](https://github.com/user-attachments/assets/6c0b8505-2603-4c7e-ae53-480523124811)
-
 * User memilih ya
   ![Screenshot (101)](https://github.com/user-attachments/assets/02ed49a5-8db6-414a-b708-5c30269be02a)
 
+  Jika user memilih "ya", maka user diminta memasukkan tugas yang ingin dikirim kembali.
+
+* User memilih tidak
+![Screenshot (99)](https://github.com/user-attachments/assets/6c0b8505-2603-4c7e-ae53-480523124811)
+
+Jika user memilih "tidak" maka otomatis tampilan seperti pada gambar diatas.
