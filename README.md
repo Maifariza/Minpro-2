@@ -86,7 +86,7 @@ Jika user telah mengirim tugas akan ditanya kembali apakah ingin mengirim hal la
 * User memilih ya
   ![Screenshot (101)](https://github.com/user-attachments/assets/02ed49a5-8db6-414a-b708-5c30269be02a)
 
-  Jika user memilih "ya", maka user diminta memasukkan tugas yang ingin dikirim kembali.
+  Jika user memilih "ya", maka user kembali ke menu memasukkan tugas yang ingin dikirim kembali menggunakan looping atau pengulangan.
 
 * User memilih tidak
 ![Screenshot (99)](https://github.com/user-attachments/assets/6c0b8505-2603-4c7e-ae53-480523124811)
