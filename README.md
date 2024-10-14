@@ -74,6 +74,8 @@ Input angka 2 untuk melihat tugas yang telah diperbarui.
 * Setelah di hapus
 ![Screenshot (86)](https://github.com/user-attachments/assets/46a8ed5d-2124-46ca-8c0c-8a19004a5bd1)
 
+Terlihat pada Nomor Tugas "7" telah terhapus saat admin menggunakan fitur Hapus Tugas dan juga menggunakan perulangan yang sama seperti "Tambah Tugas".
+
 5. Kembali Ke Menu Awal
    
    ![Screenshot (96)](https://github.com/user-attachments/assets/a5ad2f71-5be3-4d64-9874-939d40181714)
@@ -87,14 +89,14 @@ Pada saat user menginputkan angka 2 maka user akan masuk ke Role Karyawan yang a
 
 ![Screenshot (100)](https://github.com/user-attachments/assets/ac14a060-6136-42e6-9871-0d6a2984b5f2)
 
-Jika user telah mengirim tugas akan ditanya kembali apakah ingin mengirim hal lain (ya/tidak)
+Jika user telah mengirim tugas akan ditanya kembali apakah ingin mengirim hal lain (ya/tidak).
 
 * User memilih ya
   ![Screenshot (101)](https://github.com/user-attachments/assets/02ed49a5-8db6-414a-b708-5c30269be02a)
 
-  Jika user memilih "ya", maka user kembali ke menu memasukkan tugas yang ingin dikirim kembali menggunakan looping atau pengulangan.
+  Jika user memilih "ya", maka user kembali ke menu memasukkan tugas yang ingin dikirim kembali menggunakan looping atau perulangan.
 
 * User memilih tidak
 ![Screenshot (99)](https://github.com/user-attachments/assets/6c0b8505-2603-4c7e-ae53-480523124811)
 
-Jika user memilih "tidak" maka otomatis tampilan seperti pada gambar diatas.
+Jika user memilih "tidak" maka otomatis tampilan seperti pada gambar diatas dan atur To-Do-List telah selesai.
