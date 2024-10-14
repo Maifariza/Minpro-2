@@ -10,17 +10,18 @@ Tema : Program To-Do-List Perusahaan
 ![Screenshot (90)](https://github.com/user-attachments/assets/5f66a81a-50df-427a-a2b4-695a58aa028a)
 
 
-1. Pada menu Login user diminta untuk memasukkan Nama, NIM, dan Pin. Setelah itu login sebagai Perusahaan atau Karyawan.
+1. Pada menu Login user diminta untuk memasukkan Nama, NIM, dan Pin untuk mengetahui identitas user atau admin. Setelah itu login sebagai Perusahaan atau Karyawan.
 2. Untuk role Perusahaan bisa melakukan CRUD (Create, Read, Update, dan Delete).
 Sedangkan untuk role Karyawan hanya dapat menyelesaikan tugas dari Perusahaan.
 * Jika user menginputkan angka selain 1 dan 2 maka tampilan akan kembali ke menu login.
   ![Screenshot (91)](https://github.com/user-attachments/assets/10bf6b52-8609-4998-826f-73ac5a311dbe)
 
-
+  Maka, user bisa melakukan login kembali.
+  
 # Role Perusahaan 
 ![Screenshot (80)](https://github.com/user-attachments/assets/85ba982b-ab34-4cfb-a8ad-e8f319f32a8c)
 
-Jika user menginputkan angka 1 maka dengan otomatis menampilkan 5 role perusahaan dan user diminta untuk menginputkan sesuai dengan angka role yang disediakan.
+Jika menginputkan angka 1 dan sebagai Perusahaan maka dengan otomatis akan menampilkan 5 role perusahaan dan admin diminta untuk menginputkan angka sesuai dengan role yang telah disediakan.
 
 
 # Penjelasan Role Perusahaan
