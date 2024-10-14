@@ -25,6 +25,7 @@ Jika user menginputkan angka 1 otomatis menampilkan 5 role perusahaan dan user d
 
 # Penjelasan Role Perusahaan
 1. Tambah Tugas
+   
 ![Screenshot (81)](https://github.com/user-attachments/assets/94ade6ff-8686-4e32-9191-4bcf2017bed3)
 
 Input angka 1 untuk masuk ke role tambah tugas.
@@ -64,6 +65,7 @@ Input angka 2 untuk melihat tugas yang telah diperbarui.
 ![Screenshot (86)](https://github.com/user-attachments/assets/46a8ed5d-2124-46ca-8c0c-8a19004a5bd1)
 
 5. Kembali Ke Menu Awal
+   
    ![Screenshot (96)](https://github.com/user-attachments/assets/a5ad2f71-5be3-4d64-9874-939d40181714)
 
    Pada fitur ini admin diarahkan kembali ke menu login.
