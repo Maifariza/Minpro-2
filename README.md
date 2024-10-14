@@ -63,14 +63,14 @@ Input angka 2 untuk melihat tugas yang telah diperbarui.
 * Sebelum di hapus
     ![Screenshot (85)](https://github.com/user-attachments/assets/49935bf6-1b53-4383-aab9-168bd4b26694)
 
-  * Setelah di hapus
+* Setelah di hapus
 ![Screenshot (86)](https://github.com/user-attachments/assets/46a8ed5d-2124-46ca-8c0c-8a19004a5bd1)
 
 5. Kembali Ke Menu Awal
    
    ![Screenshot (96)](https://github.com/user-attachments/assets/a5ad2f71-5be3-4d64-9874-939d40181714)
 
-   Pada fitur ini admin diarahkan kembali ke menu login.
+   Pada fitur ini admin akan diarahkan kembali ke menu login.
 
 # Role Karyawan
 ![Screenshot (98)](https://github.com/user-attachments/assets/127b9a38-a7bb-467f-a1b3-c1236bf9dfdf)
