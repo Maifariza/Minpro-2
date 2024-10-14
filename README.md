@@ -20,7 +20,7 @@ Sedangkan untuk role Karyawan hanya dapat menyelesaikan tugas dari Perusahaan.
 # Role Perusahaan 
 ![Screenshot (80)](https://github.com/user-attachments/assets/85ba982b-ab34-4cfb-a8ad-e8f319f32a8c)
 
-Jika user menginputkan angka 1 otomatis menampilkan 5 role perusahaan dan user diminta untuk menginputkan sesuai dengan angka role yang disediakan.
+Jika user menginputkan angka 1 maka dengan otomatis menampilkan 5 role perusahaan dan user diminta untuk menginputkan sesuai dengan angka role yang disediakan.
 
 
 # Penjelasan Role Perusahaan
@@ -28,17 +28,19 @@ Jika user menginputkan angka 1 otomatis menampilkan 5 role perusahaan dan user d
    
 ![Screenshot (81)](https://github.com/user-attachments/assets/94ade6ff-8686-4e32-9191-4bcf2017bed3)
 
-Input angka 1 untuk masuk ke role tambah tugas.
+Input angka 1 untuk masuk ke role Tambah Tugas Perusahaan. Pada role Tambah Tugas ini menggunakan function def tambah_tugas() yang dimana function tersebut akan menampilkan sebuah tabel untuk kemudian admin dapat menambah data untuk dimasukkan ke dalam tabel.
 
 ![Screenshot (81)](https://github.com/user-attachments/assets/764dd48c-5d82-404c-8831-3292c1f2d29d)
 
 Disini admin akan diminta memasukkan Nomor Tugas, Daftar Tugas, dan Deadline yang ingin ditambahkan. Dan admin akan ditanya apakah ingin Tambah Tugas kembali dengan pengulangan (ya/tidak).
 
 * Admin memilih ya
+  
 ![Screenshot (95)](https://github.com/user-attachments/assets/7b740f05-3767-47ae-ab0c-0cf65912d753)
 Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas".
 
 * Admin Memilih tidak
+  
   ![Screenshot (94)](https://github.com/user-attachments/assets/5d51401d-c15d-46c6-bc73-d625476386eb)
   
   Sedangkan, jika admin memilih "tidak" maka tampilan akan kembali ke Role Perusahaan.
@@ -46,7 +48,7 @@ Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas".
 2. Lihat Tugas
    
    ![Screenshot (93)](https://github.com/user-attachments/assets/8ff0d6bf-9cb2-4fdb-af0e-06b5f29b2a88)
-   Pada fitur ini user dapat melihat daftar tugas apa saja yang tersedia.
+   Pada fitur ini user dapat melihat daftar tugas apa saja yang tersedia dengan print PrettyTabel.
 
 4. Perbarui Tugas
    
