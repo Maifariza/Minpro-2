@@ -54,9 +54,11 @@ Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas".
 4. Perbarui Tugas
    
   ![Screenshot (83)](https://github.com/user-attachments/assets/ca2a3486-213a-4f43-afed-0fae8d91616a)
+  
 Pada fitur ini admin bisa memperbarui tugas dengan memilih nomor semula dan memasukkan tugas serta deadline yang baru.
 
 ![Screenshot (84)](https://github.com/user-attachments/assets/6303ded8-a9f1-4e5d-bde0-f6ae7a08756d)
+
 Input angka 2 untuk melihat tugas yang telah diperbarui.
 
 4. Hapus Tugas
