@@ -44,10 +44,12 @@ Jika admin memilih "ya" otomatis kembali menginputkan "Nomor Tugas".
   Sedangkan, jika admin memilih "tidak" maka tampilan akan kembali ke Role Perusahaan.
 
 2. Lihat Tugas
+   
    ![Screenshot (93)](https://github.com/user-attachments/assets/8ff0d6bf-9cb2-4fdb-af0e-06b5f29b2a88)
    Pada fitur ini user dapat melihat daftar tugas apa saja yang tersedia.
 
-3. Perbarui Tugas
+4. Perbarui Tugas
+   
   ![Screenshot (83)](https://github.com/user-attachments/assets/ca2a3486-213a-4f43-afed-0fae8d91616a)
 Pada fitur ini admin bisa memperbarui tugas dengan memilih nomor semula dan memasukkan tugas serta deadline yang baru.
 
