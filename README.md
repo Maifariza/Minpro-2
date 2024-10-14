@@ -16,7 +16,7 @@ Sedangkan untuk role Karyawan hanya dapat menyelesaikan tugas dari Perusahaan.
 * Jika user menginputkan angka selain 1 dan 2 maka tampilan akan kembali ke menu login.
   ![Screenshot (91)](https://github.com/user-attachments/assets/10bf6b52-8609-4998-826f-73ac5a311dbe)
 
-  Maka, user bisa melakukan login kembali.
+  User bisa melakukan login kembali.
   
 # Role Perusahaan 
 ![Screenshot (80)](https://github.com/user-attachments/assets/85ba982b-ab34-4cfb-a8ad-e8f319f32a8c)
@@ -64,7 +64,10 @@ Input angka 2 untuk melihat tugas yang telah diperbarui.
 4. Hapus Tugas
    ![Screenshot (85)](https://github.com/user-attachments/assets/08a3c983-c2c1-44f4-b004-1a8b4a7dc36d)
    Pada fitur ini admin menginputkan Nomor Tugas yang ingin dihapus.
-   
+
+   ![Screenshot (104)](https://github.com/user-attachments/assets/6570f620-5add-4232-a496-d84c45aef552)
+
+   Input angka 2 untuk menampilkan perubahan data pada tabel.
 * Sebelum di hapus
     ![Screenshot (85)](https://github.com/user-attachments/assets/49935bf6-1b53-4383-aab9-168bd4b26694)
 
